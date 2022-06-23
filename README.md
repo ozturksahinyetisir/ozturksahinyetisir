@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ztrk8
+- 👋 Hi, I’m @ozturksahinyetisir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning 
     - .NET & .NET Core
