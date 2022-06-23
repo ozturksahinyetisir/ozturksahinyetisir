@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ztrk8
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning 
+    - .NET & .NET Core
+    - Python
+    - Java & Kotlin (Android)
