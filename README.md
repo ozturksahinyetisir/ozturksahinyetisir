@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ozturksahinyetisir
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning 
-    - .NET & .NET Core
     - Python
     - Java & Kotlin (Android)
+    - Flutter
+    - Swift
+    - .NET & .NET Core
