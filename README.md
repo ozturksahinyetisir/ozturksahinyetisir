@@ -1,3 +1,7 @@
+<div align="center" id="badges">
+<img src="https://komarev.com/ghpvc/?username=ozturksahinyetisir&style=flat-square&color=blue" alt=""/>
+</div>
+---
 - 👋 Hi, I’m @ozturksahinyetisir
 - 👀 I’m currently learning 
     - Python
