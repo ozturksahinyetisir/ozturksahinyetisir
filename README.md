@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=ozturksahinyetisir&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/hsQHBMQ/githubmain2.png" alt="githubmain2" width="400" heigth="400" border="0"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/RcrzxXq/githubmain2.png" alt="githubmain2" width="400" heigth="400" border="0"></a>
 
 ---
 
