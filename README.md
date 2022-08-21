@@ -13,9 +13,8 @@
 
   second part
     - Flutter
-    - Python
     - Swift
-    - .NET & .NET Core
+    
    
 
 </div>
