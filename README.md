@@ -1,6 +1,6 @@
-<div align="center" id="badges">
-<img src="https://komarev.com/ghpvc/?username=ozturksahinyetisir&style=flat-square&color=blue" alt=""/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Android+Developer;Ozturk-Sahin-Yetisir;&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000">
+</p>
 <div align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/RcrzxXq/githubmain2.png" alt="githubmain2" width="400" heigth="400" border="0"></a>
 
@@ -15,8 +15,6 @@
     - Flutter
     - Swift
     
-   
-
 </div>
 
 ---
@@ -26,7 +24,6 @@
   <a href="https://www.linkedin.com/in/ozturksahinyetisir/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
 
 ---
 
@@ -43,4 +40,8 @@
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
 
 ---
+</div>
+
+<div align="center" id="badges">
+<img src="https://komarev.com/ghpvc/?username=ozturksahinyetisir&style=flat-square&color=blue" alt=""/>
 </div>
