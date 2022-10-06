@@ -4,17 +4,11 @@
 <div align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/RcrzxXq/githubmain2.png" alt="githubmain2" width="400" heigth="400" border="0"></a>
 
+- 📫 **ozturksahinyetisir@gmail.com**
 ---
 
 <h2> 👋 Hi, I’m @ozturksahinyetisir </h2>
-- 👀 I’m currently learning 
-    - Javascript & Kotlin (Android)
-    - HTML / CSS / SCSS 
-
-  second part
-    - Flutter
-    - Swift
-    
+ 👀 Kotlin
 </div>
 
 ---
@@ -29,7 +23,6 @@
 
 ### :hammer_and_wrench: Languages and Tools:
 
-
 <a href="https://developer.android.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://kotlinlang.org/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="max-width: 100%;"> </a>
@@ -38,6 +31,10 @@
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://firebase.google.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.adobe.com/tr/products/photoshop.html" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.figma.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="max-width: 100%;"> </a>
+
 
 ---
 </div>
