@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/RcrzxXq/githubmain2.png" alt="githubmain2" width="200" heigth="200" border="0"></a>
 
-- 📫 **ozturksahinyetisir@gmail.com**
+ 📫 **ozturksahinyetisir@gmail.com**
 
 <div align="center" id="badges">
 
@@ -28,10 +28,3 @@
 <a href="https://www.adobe.com/tr/products/photoshop.html" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.figma.com/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" style="max-width: 100%;"> </a>
 
-
----
-</div>
-
-<div align="center" id="badges">
-<img src="https://komarev.com/ghpvc/?username=ozturksahinyetisir&style=flat-square&color=blue" alt=""/>
-</div>
