@@ -2,16 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Android+Developer;Ozturk-Sahin-Yetisir;&font=Fira%20Code&center=true&width=380&height=50&duration=2000&pause=1000">
 </p>
 <div align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/RcrzxXq/githubmain2.png" alt="githubmain2" width="400" heigth="400" border="0"></a>
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/RcrzxXq/githubmain2.png" alt="githubmain2" width="200" heigth="200" border="0"></a>
 
 - 📫 **ozturksahinyetisir@gmail.com**
----
-
-<h2> 👋 Hi, I’m @ozturksahinyetisir </h2>
- 👀 Kotlin
-</div>
-
----
 
 <div align="center" id="badges">
 
