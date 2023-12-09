@@ -14,7 +14,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### Languages and Tools:
 
 
 <a href="https://developer.android.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"> </a>
