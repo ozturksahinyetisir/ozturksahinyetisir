@@ -14,6 +14,8 @@
    <a href="https://medium.com/@ozturksahinyetisir">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ozturksahinyetisir&label=Profile%20views&color=0e75b6&style=flat" alt="ozturksahinyetisir" /> </p>
  
 
 ---
@@ -34,4 +36,5 @@
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.adobe.com/tr/products/photoshop.html" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" style="max-width: 100%;"> </a>
 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozturksahinyetisir&show_icons=true&locale=en&layout=compact" alt="ozturksahinyetisir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozturksahinyetisir&" alt="ozturksahinyetisir" /></p>
